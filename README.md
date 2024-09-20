@@ -1,4 +1,4 @@
 ### Drill Spring Boot
 
 ---    
-- [ ] Package 구성
+- [x] Package 구성
